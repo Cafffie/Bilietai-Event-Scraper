@@ -61,8 +61,11 @@ pip install -r requirements.txt
 **Required packages:**
 
 * undetected-chromedriver
+  
 *selenium
+
 *webdriver-manager
+
 *pandas
 *lxml
 *schedule
