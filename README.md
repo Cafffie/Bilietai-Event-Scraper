@@ -1,5 +1,3 @@
-# webscrapping_
-
 # Bilietai Event Scraper
 
 ## Scraping structured event data from bilietai.lt using Selenium
@@ -42,7 +40,7 @@ END
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Cafffie/webscrapping_
 cd bilietai-scraper
 ```
 
@@ -62,9 +60,17 @@ pip install -r requirements.txt
 
 **Required packages:**
 
-* selenium
 * undetected-chromedriver
-* pandas
+*selenium
+*webdriver-manager
+*pandas
+*lxml
+*schedule
+*openpyxl
+*setuptools
+*pandas
+*python-dateutil
+*pg8000
 
 ### 4. Run the scraper
 
