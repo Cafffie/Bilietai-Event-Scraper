@@ -65,12 +65,11 @@ pip install -r requirements.txt
 * webdriver-manager
 * pandas
 * lxml
-*schedule
-*openpyxl
-*setuptools
-*pandas
-*python-dateutil
-*pg8000
+* schedule
+* openpyxl
+* setuptools
+* python-dateutil
+* pg8000
 
 ### 4. Run the scraper
 
