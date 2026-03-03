@@ -64,12 +64,18 @@ pip install -r requirements.txt
 * selenium
 * webdriver-manager
 * pandas
+* beautifulsoup4
 * lxml
 * schedule
 * openpyxl
+* requests
+* pymongo
+* python-dotenv
 * setuptools
 * python-dateutil
 * pg8000
+* cloud-sql-python-connector
+
 
 ### 4. Run the scraper
 
